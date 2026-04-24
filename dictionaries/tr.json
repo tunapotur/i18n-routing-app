@@ -1,6 +1,6 @@
 {
   "server-component": {
-    "welcome": "Merhaba"
+    "welcome": "Hoş Geldin"
   },
   "counter": {
     "increment": "Arttır",

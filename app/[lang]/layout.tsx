@@ -1,6 +1,7 @@
 import { i18n, type Locale } from "@/i18n-config";
+import type { Metadata } from "next";
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "i18n within app router - Vercel Examples",
   description: "How to do i18n in Next.js 15 within app router",
 };
